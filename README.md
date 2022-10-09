@@ -8,6 +8,8 @@ The notes, task, and PowerPoint presentation for this years NumPy workshop. Modi
 
 **Updated** by Philip Wilkinson - Head of Science (20/21), UCL Data Science Society
 
+**Updated (again)** by Danny Phan - Science Executive (22/23), UCL Data Science Society
+
 ## Prerequisites:
 
 - Jupyter Notebook / Anaconda
